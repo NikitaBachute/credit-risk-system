@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/processed/
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
